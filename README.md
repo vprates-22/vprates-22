@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/prates-victor/"><i>Victor Prates</i></a> 😃️</h1>
-  <p align="center">Estudante de Bacherelado em Ciência da Computação pela <a href="https://ufmg.br/"><i>UFMG</i></a> e Trainee em Desenvolvimento na SYDLE.</h2>
+  <p align="center">Estudante de Bacherelado em Ciência da Computação pela <a href="https://ufmg.br/"><i>UFMG</i></a> e Engenheiro de Software na SYDLE.</h2>
 </div>
 
 <div align="center" valign="top"><br>
