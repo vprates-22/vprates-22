@@ -24,7 +24,7 @@
 <hr></hr>
 
 <div>
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=vprates-22&show_icons=true" alt="vprates-22" />
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vprates-22&show_icons=true&locale=en&layout=compact" alt="vprates-22" />
+  <img align="left" height="180px" src="https://stats-github-readme.vercel.app/api?username=vprates-22&show_icons=true" alt="vprates-22" />
+  <img align="left" height="150px" src="https://stats-github-readme.vercel.app/api/top-langs?username=vprates-22&show_icons=true&locale=en&layout=compact" alt="vprates-22" />
 </div>
 
